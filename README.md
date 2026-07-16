@@ -211,7 +211,7 @@ I've never treated design and engineering as two different jobs. As co-lead of t
 ### 🏅 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Radha-byte&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://my-repo-six-phi.vercel.app/?username=Radha-byte&theme=algolia&no-frame=true&row=1&column=6" />
 </div>
 
 <!-- 📸 SPOT #5 — STATS (fully automatic, just keep repos public) -->
