@@ -90,9 +90,8 @@ radha@dev:~$ echo "say hi, I reply fast →"
 ## 🧠 Tech Radar
 
 <div align="center">
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Frontend','Backend','Cloud%2FDevOps','Data+%26+ML','DSA','Design'],datasets:[{data:[8,7,6,7,8,8],backgroundColor:'rgba(108,99,255,0.4)',borderColor:'%236C63FF',borderWidth:2,pointBackgroundColor:'%2300C9A7',pointRadius:4}]},options:{layout:{padding:30}},plugins:{legend:{display:false}},scale:{min:0,max:10,ticks:{display:false},pointLabels:{fontColor:'%23e5e5e5',fontSize:14},gridLines:{color:'rgba(255,255,255,0.15)'},angleLines:{color:'rgba(255,255,255,0.15)'}}}&backgroundColor=%231a1b27&width=520&height=460&version=2" width="460"/>
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Frontend','Backend','Cloud%2FDevOps','Data+%26+ML','DSA','Design'],datasets:[{label:'Radha',data:[8,7,6,7,8,8],backgroundColor:'rgba(108,99,255,0.4)',borderColor:'%236C63FF',borderWidth:2,pointBackgroundColor:'%2300C9A7',pointRadius:4}]},options:{layout:{padding:30}},plugins:{legend:{display:false}},scale:{min:0,max:10,ticks:{display:false},pointLabels:{fontColor:'%23e5e5e5',fontSize:14},gridLines:{color:'rgba(255,255,255,0.15)'},angleLines:{color:'rgba(255,255,255,0.15)'}}}&backgroundColor=%231a1b27&width=520&height=460&version=2" width="460"/>
 </div>
-
 <div align="center">
 
 **Languages** <br/>
@@ -199,20 +198,12 @@ I've never treated design and engineering as two different jobs. As co-lead of t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Radha-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radha-byte&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radha-byte&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radha-byte&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
-### 🏅 Trophy Case
-
-<div align="center">
-<img src="https://my-repo-six-phi.vercel.app/?username=Radha-byte&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
 
 <!-- 📸 SPOT #5 — STATS (fully automatic, just keep repos public) -->
 
