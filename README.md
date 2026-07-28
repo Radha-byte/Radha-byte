@@ -198,8 +198,7 @@ I've never treated design and engineering as two different jobs. As co-lead of t
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Radha-byte&theme=tokyonight&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com/?user=Radha-byte&theme=tokyonight&hide_border=true&cache_bust=1" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radha-byte&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
