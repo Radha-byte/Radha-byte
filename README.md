@@ -242,6 +242,6 @@ I reply fastest on LinkedIn — if you've got a hackathon team forming, a GenAI 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:6C63FF,100:FFA116&height=140&section=footer" width="100%"/>
 
-<i>Thanks for stopping by — go build something. ✨</i>
+<i>Thanks for stopping by — let's go build something. ✨</i>
 
 </div>
